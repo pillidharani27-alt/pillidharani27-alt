@@ -1,6 +1,64 @@
 # Dharani-Pilli
-Hi it's me Dharani This is My Profile
+Hi it's me Dharani This is My Profile# Hi 👋, I'm Dharani
 
+A passionate **Data Analyst** from India specializing in **Python, SQL, Excel, Power BI, and Tableau**.  
+I love transforming raw data into meaningful insights and building dashboards that support real business decisions.
+
+---
+
+## 🔍 What I Do
+- 📊 Build **interactive dashboards** in Power BI & Tableau  
+- 🧹 Perform **data cleaning, analysis, and ETL** using Excel & Python  
+- 🧮 Write **SQL queries** for real-world business scenarios  
+- 🧠 Practice coding through **Python mini projects**  
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 **Insurance Analytics Dashboard (Power BI)**  
+Insightful dashboard analyzing KPIs like premium, revenue, and customer segments.
+
+### 📌 **Finance Dashboard (Power BI)**  
+A multi-page analytical dashboard showing sales, profit, product performance, and trends.
+
+### 📌 **Excel Data Analysis**  
+Data cleaning, pivot tables, dashboards, slicers, and business insights.
+
+### 📌 **SQL Projects**  
+Real-world scenario queries using MySQL, joins, subqueries, case-based solutions.
+
+### 📌 **Python Mini Projects**  
+Hangman, Rock-Paper-Scissors, Coffee Machine, Guess the Number, Password Generator, and more.
+
+---
+
+## 🛠️ Skills & Tools
+
+### **Languages**
+- Python  
+- SQL  
+
+### **Data Tools**
+- Power BI  
+- Tableau  
+- Excel (Pivot Tables, Dashboarding)
+
+### **Python Libraries**
+- Pandas  
+- NumPy  
+- Matplotlib  
+
+### **Databases**
+- MySQL  
+
+---
+
+## 📫 Connect With Me  
+- 🌐 **LinkedIn:** www.linkedin.com/in/pillidharani  
+- 📧 **Email:** pillidharani27@gmail.com  
+
+---
 <h1 align="center">Hi 👋, I'm Dharani</h1>
 <h3 align="center">A passionate Data Analyst from India specializing in Python, SQL, Excel, and Power BI.</h3>
 
@@ -37,3 +95,5 @@ Hi it's me Dharani This is My Profile
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pillidharani27-alt&show_icons=true&locale=en" alt="pillidharani27-alt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pillidharani27-alt&" alt="pillidharani27-alt" /></p>
+
+⭐ *Thank you for visiting my profile! Feel free to explore my projects.*  
