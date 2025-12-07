@@ -14,8 +14,9 @@ I love transforming raw data into meaningful insights and building dashboards th
 - 📊 Build **interactive dashboards** in Power BI & Tableau  
 - 🧹 Perform **data cleaning, analysis, and ETL** using Excel & Python  
 - 🧮 Write **SQL queries** for real-world business scenarios  
-- 🧠 Practice coding through **Python mini projects** 
-                                          ## 🚀 Projects
+- 🧠 Practice coding through **Python mini projects**
+-
+## 🚀 Projects
 ### 📌 **Insurance Analytics Dashboard (Power BI)**  
 Insightful dashboard analyzing KPIs like premium, revenue, and customer segments.
 
