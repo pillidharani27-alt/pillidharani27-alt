@@ -1,11 +1,9 @@
-# Dharani-Pilli
-Hi it's me Dharani This is My Profile
+
 <h1 align="center">Hi 👋, I'm Dharani</h1>
 <h3 align="center">A passionate Data Analyst from India specializing in Python, SQL, Excel, and Power BI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pillidharani27-alt&label=Profile%20views&color=0e75b6&style=flat" alt="pillidharani27-alt" /> </p>
 
-# Hi 👋, I'm Dharani
 
 A passionate **Data Analyst** from India specializing in **Python, SQL, Excel, Power BI, and Tableau**.  
 I love transforming raw data into meaningful insights and building dashboards that support real business decisions.
